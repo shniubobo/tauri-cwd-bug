@@ -1,0 +1,8 @@
+{
+    "scripts": {
+        "tauri": "pnpm run -r --filter ./src/frontend tauri"
+    },
+    "workspaces": [
+        "src/frontend"
+    ]
+}
